@@ -10,5 +10,8 @@ taxonomie + cpt
 Archive
 <img width="2559" height="1268" alt="image" src="https://github.com/user-attachments/assets/4b888c41-c75b-4a12-82f4-69e85d5857eb" />
 
+Apercu de page d'une randonnée
+<img width="2558" height="1152" alt="image" src="https://github.com/user-attachments/assets/91432972-caec-47be-b891-bb6baadee4ef" />
+
 
 
